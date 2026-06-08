@@ -2,7 +2,7 @@
 
 This project is a part of the Advanced Programming for Scientific Computing course at Politecnico di Milano. The goal of the project is to develop an iterative solver that computes the following:
 
-$$x = \underset{y \,\in\, \mathbb{R}^n}{\operatorname{argmin}} \; f(y)$$
+![formula](https://latex.codecogs.com/svg.image?x=\underset{y\in\mathbb{R}^n}{\mathrm{argmin}}\,f(y))
 
 ## Introduction
 
